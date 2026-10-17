@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/openai/whisper/commit/86098128c0b4f24f0e2aa2994de830614b474227",
       "git:hexsha": "86098128c0b4f24f0e2aa2994de830614b474227",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:12:58.396363+00:00"
     },
     {
       "@id": "https://repolex.ai/r/openai/whisper/commit/37a4f1be6d178bc8dad010dc33bcbbc69350e6bf",
